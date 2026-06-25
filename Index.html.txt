@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CareerDNA | Discover Your Career Path</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f8f9fc;
+    color:#333;
+}
+
+header{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:80px 20px;
+}
+
+header h1{
+    font-size:3rem;
+    margin-bottom:20px;
+}
+
+header p{
+    font-size:1.2rem;
+    max-width:700px;
+    margin:auto;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:30px;
+    background:#2563eb;
+    color:white;
+    padding:15px 30px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+section{
+    padding:70px 20px;
+    max-width:1100px;
+    margin:auto;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:50px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.08);
+}
+
+.card h3{
+    margin-bottom:15px;
+}
+
+.about{
+    text-align:center;
+    line-height:1.8;
+}
+
+.form-section{
+    text-align:center;
+}
+
+footer{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>Discover Careers Built Around You</h1>
+    <p>
+        We help students and professionals discover career paths that align with
+        their strengths, skills, interests, and long-term goals.
+    </p>
+
+    <a href="https://forms.google.com" class="btn">
+        Join Research Program
+    </a>
+</header>
+
+<section>
+    <div class="section-title">
+        <h2>How It Works</h2>
+    </div>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>1. Take Assessment</h3>
+            <p>
+                Answer questions about your skills, interests,
+                problem-solving style, and career preferences.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>2. Discover Strengths</h3>
+            <p>
+                Understand your natural strengths and professional tendencies.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>3. Explore Careers</h3>
+            <p>
+                Receive multiple career paths you can explore rather than one rigid recommendation.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section class="about">
+    <h2>Why We're Different</h2>
+
+    <br>
+
+    <p>
+        Most career tests tell you what job you should pursue.
+    </p>
+
+    <br>
+
+    <p>
+        We help you understand multiple possibilities,
+        compare career paths, identify skill gaps,
+        and build a roadmap toward a fulfilling future.
+    </p>
+</section>
+
+<section class="form-section">
+    <h2>Become an Early Participant</h2>
+
+    <br>
+
+    <p>
+        Help us shape the future of career discovery and receive personalized insights.
+    </p>
+
+    <a href="https://forms.google.com" class="btn">
+        Start Assessment
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 CareerDNA | Career Discovery Research Project</p>
+</footer>
+
+</body>
+</html>
