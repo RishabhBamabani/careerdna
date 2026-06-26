@@ -102,7 +102,7 @@ footer{
         their strengths, skills, interests, and long-term goals.
     </p>
 
-    <a href="https://forms.google.com" class="btn">
+    <a href="https://rishabhbamabani.github.io/careerdna/" class="btn">
         Join Research Program
     </a>
 </header>
