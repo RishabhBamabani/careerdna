@@ -166,7 +166,7 @@ footer{
         Help us shape the future of career discovery and receive personalized insights.
     </p>
 
-    <a href="https://forms.google.com" class="btn">
+    <a href="https://rishabhbamabani.github.io/careerdna/" class="btn">
         Start Assessment
     </a>
 </section>
